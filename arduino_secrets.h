@@ -1,0 +1,3 @@
+#define SECRET_DEVICE_KEY "eoUNbuZomSIKSO0v50QAy2fIN"
+#define SECRET_OPTIONAL_PASS "WemosD1R32"
+#define SECRET_SSID "RedmiNote9S"
